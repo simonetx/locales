@@ -1,5 +1,5 @@
 {
-  add: "Ajouter",
-  edit: "Éditer",
-  delete: "Effacer"
+  "add": "Ajouter",
+  "edit": "Éditer",
+  "delete": "Effacer"
 }
