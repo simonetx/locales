@@ -1,1 +1,5 @@
-{}
+{
+  add: "Ajouter",
+  edit: "Éditer",
+  delete: "Effacer"
+}
